@@ -3,7 +3,7 @@ title: "「デート場所が決まらない」をAIエージェントで解く 
 emoji: "🗓️"
 type: "tech"
 topics: ["hackathon", "ai", "cloudrun", "nextjs", "llm"]
-published: false
+published: true
 ---
 
 [AI Hackathon（AIHACK）](https://aihackathon.jp/)で「ふたりログ」というデート計画アプリを作りました。二人の希望を聞いて一日の行程を組み、雨や遅延で予定が崩れたら組み直し、デートの振り返りを次回に活かすWebアプリです。計画するのは一人で、相手はアプリを使いません。
